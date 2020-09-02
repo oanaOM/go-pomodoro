@@ -1,6 +1,6 @@
 ### Minimalistic pomodoro timer
 
-A command-line interface (CLI) tool that helps you manage time more efficiently by applying the [pomodoro technique].
+A command-line interface (CLI) tool that helps you manage time more efficiently by applying the [pomodoro technique][pomodoro technique].
 
 ## Description
 
