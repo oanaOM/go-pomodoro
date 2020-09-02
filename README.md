@@ -1,6 +1,6 @@
 ### Minimalistic pomodoro timer
 
-A command-line interface (CLI) tool that helps you manage time more efficiently by applying the [pomodoro technique][pomodoro technique].
+A command-line interface (CLI) tool that helps you manage time more efficiently by applying the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 ## Description
 
@@ -11,7 +11,7 @@ A command-line interface (CLI) tool that helps you manage time more efficiently 
 
 ## Prerequisite
 
-You need to have Go (Golang) installed locally. You can find full [here][go_instaltion] documentation on how to do this
+You need to have Go (Golang) installed locally. You can find full [here](https://golang.org/doc/install) documentation on how to do this
 
 ## Instalation steps
 
@@ -31,5 +31,3 @@ The user can manually change the pomodoro time and breaks duration by using the 
 `--shortbreak` allows the user to change the duration of a short break
 
 
-[pomodoro technique]: (https://en.wikipedia.org/wiki/Pomodoro_Technique)
-[go_instaltion]: (https://golang.org/doc/install)
